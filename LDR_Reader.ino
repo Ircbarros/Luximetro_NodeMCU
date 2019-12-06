@@ -7,11 +7,11 @@
 #include <WiFiServer.h>
 #include <WiFiUdp.h>
 
-#define WIFI_SSID "dlink"
-#define WIFI_PASSWORD ""
+#define WIFI_SSID "WIFI_SSID"
+#define WIFI_PASSWORD "WIFI_PASSWORD"
 
-#define AIO_USERNAME "Ircbarros"
-#define AIO_KEY "23ac96648c0d47689ce2c6fc8beb375c"
+#define AIO_USERNAME "YOUR_AIO_USERNAME"
+#define AIO_KEY "YOUR_AIO_KEY"
 #define AIO_SERVER "io.adafruit.com"
 #define AIO_SERVERPORT 1883
 
